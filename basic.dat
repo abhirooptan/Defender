@@ -1,0 +1,15 @@
+# level length
+3
+# level speed
+0.7
+# ground data
+3
+0.0 0.0
+1.5 0.5 
+3.0 0.0
+# ceiling data
+2
+0.0 0.95
+3.0 0.7
+# enemy data
+0
